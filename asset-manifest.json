@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/%7Bangrybaldmanx.github.io%7D/static/css/main.e1ab8038.chunk.css",
+    "main.js": "/%7Bangrybaldmanx.github.io%7D/static/js/main.b074d399.chunk.js",
+    "main.js.map": "/%7Bangrybaldmanx.github.io%7D/static/js/main.b074d399.chunk.js.map",
+    "runtime-main.js": "/%7Bangrybaldmanx.github.io%7D/static/js/runtime-main.a4ec7866.js",
+    "runtime-main.js.map": "/%7Bangrybaldmanx.github.io%7D/static/js/runtime-main.a4ec7866.js.map",
+    "static/css/2.383c0125.chunk.css": "/%7Bangrybaldmanx.github.io%7D/static/css/2.383c0125.chunk.css",
+    "static/js/2.d71ae2d2.chunk.js": "/%7Bangrybaldmanx.github.io%7D/static/js/2.d71ae2d2.chunk.js",
+    "static/js/2.d71ae2d2.chunk.js.map": "/%7Bangrybaldmanx.github.io%7D/static/js/2.d71ae2d2.chunk.js.map",
+    "index.html": "/%7Bangrybaldmanx.github.io%7D/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/%7Bangrybaldmanx.github.io%7D/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.e1ab8038.chunk.css.map": "/%7Bangrybaldmanx.github.io%7D/static/css/main.e1ab8038.chunk.css.map",
+    "static/js/2.d71ae2d2.chunk.js.LICENSE.txt": "/%7Bangrybaldmanx.github.io%7D/static/js/2.d71ae2d2.chunk.js.LICENSE.txt",
+    "static/media/derp.4b5e057b.jpg": "/%7Bangrybaldmanx.github.io%7D/static/media/derp.4b5e057b.jpg",
+    "static/media/email.9f1aba2c.png": "/%7Bangrybaldmanx.github.io%7D/static/media/email.9f1aba2c.png",
+    "static/media/github.553c6615.png": "/%7Bangrybaldmanx.github.io%7D/static/media/github.553c6615.png",
+    "static/media/home.cf1eec94.png": "/%7Bangrybaldmanx.github.io%7D/static/media/home.cf1eec94.png",
+    "static/media/linkedin.f249b382.png": "/%7Bangrybaldmanx.github.io%7D/static/media/linkedin.f249b382.png",
+    "static/media/mail.5d08299f.png": "/%7Bangrybaldmanx.github.io%7D/static/media/mail.5d08299f.png",
+    "static/media/smartwatch.4b7fa386.png": "/%7Bangrybaldmanx.github.io%7D/static/media/smartwatch.4b7fa386.png",
+    "static/media/videoconsole.bd9d71c9.png": "/%7Bangrybaldmanx.github.io%7D/static/media/videoconsole.bd9d71c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4ec7866.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.d71ae2d2.chunk.js",
+    "static/css/main.e1ab8038.chunk.css",
+    "static/js/main.b074d399.chunk.js"
+  ]
+}
