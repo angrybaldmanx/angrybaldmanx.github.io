@@ -1,0 +1,97 @@
+.App {
+  text-align: center;
+  background-color: rgb(54, 54, 54);
+  min-height: 100vh;
+}
+.row{
+  margin: 0 !important;
+}
+.game-card{
+  margin-bottom: 20px;
+  -webkit-box-shadow: 0px 5px 15px 2px #000000; 
+  box-shadow: 0px 5px 15px 2px #000000;
+}
+.game-card-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color:rgb(224, 224, 224) !important;
+}
+.game-container{
+  margin-top: 50px;
+}
+.nav-links{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  font-size: 18px;
+  color: rgb(248, 149, 0);
+}
+a:link {
+  color: rgb(224, 224, 224) !important;
+}
+a:visited {
+  color: rgb(224, 224, 224) !important
+}
+#button {
+  background-color: rgb(251, 255, 0) !important;
+  border: rgb(251, 255, 0);
+  color: black;
+}
+#button2 {
+  background-color: rgb(248, 149, 0) !important;
+  border: rgb(248, 149, 0);
+  color: black !important;
+  margin-left: 10px;
+}
+.profile-card{
+  margin: 0 auto;
+  margin-top: 25px;
+  float: none;
+  color: rgb(224, 224, 224);
+  -webkit-box-shadow: 0px 5px 15px 2px #000000; 
+  box-shadow: 0px 5px 15px 2px #000000;
+}
+.profile-container{
+  display: flex;
+  align-items: center;
+  color:rgb(224, 224, 224) !important;
+}
+#profileImage {
+  border-radius: 50%;
+  height: 200px;
+  width: auto;
+}
+.homeIcon {
+  height: 40px;
+  width: auto;
+}
+.downloadIcon {
+  height: 40px;
+  width: auto;
+}.chatIcon {
+  height: 40px;
+  width: auto;
+}
+#profileIcon {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.nav-banner p{
+  margin: 0 auto;
+  display:flex;
+  align-items: center;
+  color: rgb(224, 224, 224);
+  font-size: 25px;
+}
+.valueTag {
+  color: rgb(248, 149, 0)
+}
+.platformTag {
+  color: white;
+}
+.nav-banner img {
+  height: 50px;
+  width: auto;
+}
