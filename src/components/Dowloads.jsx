@@ -8,6 +8,7 @@ export default function Downloadlist() {
     return (
         <div>
             <div className="game-container">
+              <h2>Your Download List</h2>
                 <Row>
                 {downloadData && downloadData.map((game, index) => {
                     return (
