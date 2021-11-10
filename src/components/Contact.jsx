@@ -12,7 +12,7 @@ export default function Contact() {
                 <Card.Body>
                 <Card.Img variant="left" src={Derp} id="profileImage"/>
                     <Card.Title>Eric Fricke</Card.Title>
-                    <h5>Full Stack Java Developer</h5>
+                    <h5>Full Stack Developer</h5>
                     <p><a href="mailto:fricke.ea@gmail.com">fricke.ea@gmail.com</a></p>
                     <a href='https://e-fricke.github.io/'><img src ={Mail} height='40' id='profileIcon' alt="Portfolio"></img></a>
                     <a href='https://github.com/e-fricke'><img src ={Github} height='40' id='profileIcon' alt="GitHub"></img></a>
