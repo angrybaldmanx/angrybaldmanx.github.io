@@ -7,7 +7,7 @@ export default function GameList() {
     const [gameData, setGameData] = useState([])
     const getGames = () => {
                 axios.get(`https://gamerpower.p.rapidapi.com/api/giveaways`, {
-                    params: {'sort-by': 'value'},
+                    params: {'sort-by': 'date'},
                     headers: {
                         'x-rapidapi-host': 'gamerpower.p.rapidapi.com',
                         'x-rapidapi-key': 'd0ceb973c3msh8032e01f698857ap10d752jsn88046a5dd72d'
